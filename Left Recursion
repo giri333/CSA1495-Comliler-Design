@@ -36,9 +36,4 @@ int main(){
 	return 0;
 }
 
-OUTPUT-
-Enter the production: E->E+T|T
 
-E -> TE'
-E'->+TE'
-E'->epsilon
